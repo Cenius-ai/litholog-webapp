@@ -1,0 +1,7 @@
+# Development-only dependency. LithoLog itself is a single standard-library
+# file (litholog.py) with NO runtime dependencies, so nothing here is needed to
+# run the tool - pytest is only the test runner.
+#
+# The suite is also runnable with the standard library alone:
+#   python3 -m unittest discover -s tests -v
+pytest>=8.0,<10
