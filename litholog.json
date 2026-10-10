@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "operator": "Jane Doe",
+  "layers": [
+    {
+      "id": "L1",
+      "lithology": "mudstone",
+      "thickness_m": 1.4,
+      "description": "grey-green blocky mudstone, root traces"
+    },
+    {
+      "id": "L2",
+      "lithology": "sandstone",
+      "thickness_m": 2.6,
+      "description": "cross-bedded, fine to medium grained, sharp top"
+    },
+    {
+      "id": "L3",
+      "lithology": "siltstone",
+      "thickness_m": 0.8,
+      "description": "bioturbated siltstone with plant debris"
+    },
+    {
+      "id": "L4",
+      "lithology": "coal",
+      "thickness_m": 0.35,
+      "description": "bright banded coal seam"
+    },
+    {
+      "id": "L5",
+      "lithology": "mudstone",
+      "thickness_m": 1.1,
+      "description": "carbonaceous mudstone, pyritic nodules"
+    },
+    {
+      "id": "L6",
+      "lithology": "limestone",
+      "thickness_m": 0.9,
+      "description": "argillaceous limestone with shell hash"
+    },
+    {
+      "id": "L7",
+      "lithology": "shale",
+      "thickness_m": 2.2,
+      "description": "fissile dark shale, ammonites in the upper 0.3 m"
+    },
+    {
+      "id": "L8",
+      "lithology": "sandstone",
+      "thickness_m": 3.4,
+      "description": "amalgamated sandstone, hummocky cross-stratification"
+    }
+  ],
+  "fossils": [
+    {
+      "id": "F1",
+      "taxon": "Belemnite",
+      "depth_m": 0.6
+    },
+    {
+      "id": "F2",
+      "taxon": "Crinoid",
+      "depth_m": 2.1
+    },
+    {
+      "id": "F3",
+      "taxon": "Plant fragment",
+      "depth_m": 3.5
+    },
+    {
+      "id": "F4",
+      "taxon": "Ammonite",
+      "depth_m": 6.9
+    },
+    {
+      "id": "F5",
+      "taxon": "Brachiopod",
+      "depth_m": 8.4
+    },
+    {
+      "id": "F6",
+      "taxon": "Bivalve",
+      "depth_m": 11.9
+    }
+  ]
+}

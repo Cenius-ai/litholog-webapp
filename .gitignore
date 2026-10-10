@@ -1,0 +1,14 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Scratch stores created by ad-hoc runs
+.litholog-*.tmp
+
+# Field data lives in ./litholog.json next to the tool. Uncomment the next
+# line to keep your own section out of version control (the demo section that
+# install.sh seeds is only written when no store exists).
+# litholog.json
+.ruff_cache/
